@@ -15,6 +15,7 @@
 
 
 # Ghi lần lượt các lệnh đã chạy, mỗi lệnh một dòng
+```
 pwd
 
 ls-a
@@ -36,7 +37,7 @@ ls
 cd ..
 
 cd docs
-
+```
 cp../media/anh_lop_hoc.jpg../archive/
 
 cd..
