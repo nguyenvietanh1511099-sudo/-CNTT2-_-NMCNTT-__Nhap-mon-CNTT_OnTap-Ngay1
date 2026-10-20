@@ -18,28 +18,24 @@
 ```
 pwd
 
+
 ls-a
 
 mv lich_hoc.txt docs/
-
 mv logo_trung_tam.png media/
+mv anh_lop_hoc.jpg media/
 
 cp media/logo_trung_tam.png archive/
 
 rm temp_201.tmp
-
 rm temp_202.tmp
 
 cd logs
-
 ls
-
 cd ..
 
 cd docs
-
 cp../media/anh_lop_hoc.jpg../archive/
-
 cd..
 ```
 
