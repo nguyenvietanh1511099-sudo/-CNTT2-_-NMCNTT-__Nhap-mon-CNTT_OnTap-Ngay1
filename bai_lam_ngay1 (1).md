@@ -37,10 +37,11 @@ ls
 cd ..
 
 cd docs
-```
+
 cp../media/anh_lop_hoc.jpg../archive/
 
 cd..
+```
 
 ### Kết quả B1 (pwd)
 
